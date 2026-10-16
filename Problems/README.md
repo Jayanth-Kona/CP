@@ -1,7 +1,7 @@
 # Problems solved
 
 
-## AtCoder
+## ✨ AtCoder
 
 ### Beginner Contest Series
 
@@ -57,7 +57,7 @@
 
 ---
 
-## CSES
+## ✨ CSES
 
 ### Dynamic Programming
 
@@ -168,7 +168,7 @@
 
 ---
 
-## SPOJ
+## ✨ SPOJ
 
 ### Inclusion-Exclusion-Principle Series
 
@@ -183,7 +183,7 @@
 
 ---
 
-## AcWing
+## ✨ AcWing
 
 ### Knapsack Series
 
