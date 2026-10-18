@@ -33,6 +33,7 @@
 | [471](AtCoder/ABC/471) | [✅](AtCoder/ABC/471/A.cpp) | [✅](AtCoder/ABC/471/B.cpp) | [✅](AtCoder/ABC/471/C.cpp) | [✅](AtCoder/ABC/471/D.cpp) | [✅](AtCoder/ABC/471/E_v1.cpp) | ⬜ |
 | [476](AtCoder/ABC/476) | [✅](AtCoder/ABC/476/A.cpp) | [✅](AtCoder/ABC/476/B.cpp) | [✅](AtCoder/ABC/476/C.cpp) | [✅](AtCoder/ABC/476/D.cpp) | [✅](AtCoder/ABC/476/E.cpp) | ⬜ |
 | [477](AtCoder/ABC/477) | [✅](AtCoder/ABC/477/A.cpp) | [✅](AtCoder/ABC/477/B.cpp) | [✅](AtCoder/ABC/477/C.cpp) | [✅](AtCoder/ABC/477/D.cpp) | [✅](AtCoder/ABC/477/E.cpp) | ⬜ |
+| [479](AtCoder/ABC/479) | [✅](AtCoder/ABC/479/A.cpp) | [✅](AtCoder/ABC/479/B.cpp) | [✅](AtCoder/ABC/479/C.cpp) | [✅](AtCoder/ABC/479/D.cpp) | [✅](AtCoder/ABC/479/E_v3.cpp) | ⬜ |
 | [480](AtCoder/ABC/480) | [✅](AtCoder/ABC/480/A.cpp) | [✅](AtCoder/ABC/480/B.cpp) | [✅](AtCoder/ABC/480/C.cpp) | [✅](AtCoder/ABC/480/D.cpp) | [✅](AtCoder/ABC/480/E.cpp) | ⬜ |
 
 ### Weekday Contest Series
