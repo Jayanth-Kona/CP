@@ -5,7 +5,7 @@ using ll = long long;
 vector<ll> Disjkstra(int n , int s , vector<vector<array<int, 2>>> &graph){
     using node = array<ll , 2>;
 
-    vector<ll> dist(n + 1 , -1e18);
+    vector<ll> dist(n + 1 , +1e18);
 
     priority_queue<node , vector<node> , greater<node>> minHeap;
     minHeap.push({dist[s] = 0 , s});
