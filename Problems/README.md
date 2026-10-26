@@ -22,7 +22,7 @@
 | [039](AtCoder/ABC/039) | [✅](AtCoder/ABC/039/A.cpp) | [✅](AtCoder/ABC/039/B.cpp) | [✅](AtCoder/ABC/039/C.cpp) | [✅](AtCoder/ABC/039/D.cpp) | ⬜ | ⬜ |
 | [040](AtCoder/ABC/040) | [✅](AtCoder/ABC/040/A.cpp) | [✅](AtCoder/ABC/040/B.cpp) | [✅](AtCoder/ABC/040/C.cpp) | [✅](AtCoder/ABC/040/D.cpp) | ⬜ | ⬜ |
 | [041](AtCoder/ABC/041) | [✅](AtCoder/ABC/041/A.cpp) | [✅](AtCoder/ABC/041/B.cpp) | [✅](AtCoder/ABC/041/C.cpp) | [✅](AtCoder/ABC/041/D_v2.cpp) | ⬜ | ⬜ |
-| [042](AtCoder/ABC/042) | [✅](AtCoder/ABC/042/A.cpp) | [✅](AtCoder/ABC/042/B.cpp) | [✅](AtCoder/ABC/042/C.cpp) | [✅](AtCoder/ABC/042/D.cpp) | ⬜ | ⬜ |
+| [042](AtCoder/ABC/042) | [✅](AtCoder/ABC/042/A.cpp) | [✅](AtCoder/ABC/042/B.cpp) | [✅](AtCoder/ABC/042/C.cpp) | [✅](AtCoder/ABC/042/D.cpp) | [✅](AtCoder/ABC/042/E.cpp) | ⬜ |
 | [043](AtCoder/ABC/043) | [✅](AtCoder/ABC/043/A.cpp) | [✅](AtCoder/ABC/043/B.cpp) | [✅](AtCoder/ABC/043/C_v1.cpp) | [✅](AtCoder/ABC/043/D.cpp) | ⬜ | ⬜ |
 | [044](AtCoder/ABC/044) | [✅](AtCoder/ABC/044/A.cpp) | [✅](AtCoder/ABC/044/B.cpp) | [✅](AtCoder/ABC/044/C_v1.cpp) | [✅](AtCoder/ABC/044/D.cpp) | ⬜ | ⬜ |
 | [045](AtCoder/ABC/045) | [✅](AtCoder/ABC/045/A.cpp) | [✅](AtCoder/ABC/045/B.cpp) | [✅](AtCoder/ABC/045/C.cpp) | [✅](AtCoder/ABC/045/D.cpp) | ⬜ | ⬜ |
