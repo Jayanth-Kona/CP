@@ -80,6 +80,7 @@
 | [131](AtCoder/AWC/131) | [✅](AtCoder/AWC/131/A.cpp) | [✅](AtCoder/AWC/131/B.cpp) | [✅](AtCoder/AWC/131/C.cpp) | [✅](AtCoder/AWC/131/D.cpp) | [✅](AtCoder/AWC/131/E.cpp) |
 | [142](AtCoder/AWC/142) | [✅](AtCoder/AWC/142/A.cpp) | [✅](AtCoder/AWC/142/B.cpp) | [✅](AtCoder/AWC/142/C.cpp) | [✅](AtCoder/AWC/142/D.cpp) | [✅](AtCoder/AWC/142/E.cpp) |
 | [186](AtCoder/AWC/186) | [✅](AtCoder/AWC/186/A.cpp) | [✅](AtCoder/AWC/186/B.cpp) | [✅](AtCoder/AWC/186/C.cpp) | [✅](AtCoder/AWC/186/D.cpp) | [✅](AtCoder/AWC/186/E.cpp) |
+| [187](AtCoder/AWC/187) | [✅](AtCoder/AWC/187/A.cpp) | [✅](AtCoder/AWC/187/B.cpp) | [✅](AtCoder/AWC/187/C.cpp) | [✅](AtCoder/AWC/187/D.cpp) | [✅](AtCoder/AWC/187/E.cpp) |
 
 ---
 
